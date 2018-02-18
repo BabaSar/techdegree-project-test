@@ -1,1 +1,1 @@
-# Eechdegree Project Test
+# Techdegree Project Test
